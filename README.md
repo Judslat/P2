@@ -12,6 +12,8 @@ Plus
 
 the DJI USB driver
 
+****changelog***
+
 V3 added a version I didnt have 1.0.61 and changed layout
 
 V4 added MAC DGM files for
