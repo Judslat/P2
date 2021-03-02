@@ -20,3 +20,4 @@ V4 added MAC DGM files for
 assistant 3.06 and 3.08 and RC software
 
 V5 added IOS and Bluetooth software for the Phantom 2
+V6 correct link for USB driver
